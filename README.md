@@ -5,6 +5,6 @@
 - Class: CS 310
 - Professor: Alan Riggins (San Diego State University)
 - Purpose:
-    To develop a LinkedList class in java without using any preexisting libraries pertaining to LinkedList or any other data structures.
+- - To develop a LinkedList class in java without using any preexisting libraries pertaining to LinkedList or any other data structures.
     
     
